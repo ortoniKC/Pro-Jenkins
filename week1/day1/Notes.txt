@@ -1,0 +1,57 @@
+DataTypes:
+6 primitive data types:
+1. string
+2. number
+3. boolean
+4. null
+5. undefined
+6. symbol
+
+
+
+String:
+* Immutable
+* 2 ways to declare
+	- let str = new String("koushik") // object
+	- let str = "koushik" // literal
+
+Functions:
+1. toUpperCase()
+2. toLowerCase()
+3. charAt(position)
+4. includes()
+5. split
+6. slice
+7. length
+8. replace
+9. trim
+10. subString
+
+
+Different ways to write a functions:
+
+1. Function Declaration
+
+function name(){
+	// TODO
+	}
+
+2. Function Expressions
+
+let name = function(){
+ 	// TODO
+	}	
+3. Arrow Function Expression
+
+let name = () =>{
+	// TODO
+	}
+
+4. Function with parameter
+function name(param 1,.. param n){
+//TODO
+}
+5. Anonymous Function
+() => {
+    // TODO
+}

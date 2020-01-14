@@ -1,0 +1,25 @@
+String:
+1. create a js file and declare your details
+2. print the data type of each variable
+3. Find the greatest of 3 digits
+4. Print 2 tables till 20
+eg.,    2 * 1 = 2
+	2 * 2 = 4
+.....
+	2 * 10 = 20
+
+str "welcome to testleaf"
+
+1. Find the length of the str
+2. Find the no.of words in str
+3. Reverse the str
+
+
+HW.
+
+1. Find if "madam" is palindrome
+2. Convert even indexed values to uppercase,
+eg., koushik => kOuShIk
+3. Find no.of letter t in testleaf software
+4. Reverse the words in str
+5. Proof that string is immutable
