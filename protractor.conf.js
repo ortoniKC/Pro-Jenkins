@@ -4,7 +4,7 @@ require("babel-register")({
 exports.config = {
     framework: 'jasmine',
     directConnect: true,
-    specs: ['./smoke/SuperCalculator.js'],
+    specs: [''],
     capabilities: {
         "browserName": "chrome",
         'chromeOptions': {

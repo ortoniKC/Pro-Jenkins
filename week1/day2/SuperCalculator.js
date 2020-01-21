@@ -1,11 +1,13 @@
-// import { browser, element, by } from "protractor"
+import { browser, element, by } from "protractor"
 
 const driver = require('protractor')
 
 
 describe('Super Calculator', () => {
-
+    
     it('add two numbers', async () => {
+        // by.options()
+        by.
         driver.browser.get('http://juliemr.github.io/protractor-demo/')
         let title = await driver.browser.getTitle();
         console.log(title);
